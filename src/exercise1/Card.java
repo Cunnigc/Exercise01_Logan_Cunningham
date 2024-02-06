@@ -10,6 +10,7 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant May 2020
  */
+
 public class Card {
 
    private String suit; //clubs, spades, diamonds, hearts
