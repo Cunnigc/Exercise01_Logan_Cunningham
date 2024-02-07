@@ -55,6 +55,7 @@ public class CardTrick {
 
     // Method to print information about the user's card
     public static void printInfo(Card userCard) {
+        // I'm done!
         System.out.println("User's Card: " + userCard.getSuit() + " " + userCard.getValue());
     
         System.out.println("Congratulations, you guessed right!");
